@@ -1,0 +1,23 @@
+[
+    {
+      "username": "john_doe",
+      "password": "securepassword123"
+    },
+    {
+      "username": "alice_smith",
+      "password": "mypassword321"
+    },
+    {
+      "username": "bob_jones",
+      "password": "password!@#"
+    },
+    {
+      "username": "charlie_brown",
+      "password": "charlie2025"
+    },
+    {
+      "username": "david_williams",
+      "password": "davidsupersecure"
+    }
+  ]
+  
